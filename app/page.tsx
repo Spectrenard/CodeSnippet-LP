@@ -121,7 +121,11 @@ export default function Home() {
                   muted
                   controls
                 >
-                  <source src="/videos/cs.mp4" type="video/mp4" />
+                  <source
+                    src="
+                  /cs.mp4"
+                    type="video/mp4"
+                  />
                   Your browser does not support video playback.
                 </video>
 
